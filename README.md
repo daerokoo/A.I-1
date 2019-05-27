@@ -1,2 +1,2 @@
-# A.I-1
+# A.I.-1
 artificial intelligence
